@@ -1,0 +1,516 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+	Zingerman&#39;s: Online Shopping for Food and Gifts
+</title><meta id="ctl00_metaDescription" name="description" content="Send great food anywhere in America. Gift boxes of bread, cheese, pastry, olive oil, vinegar and more. You really can taste the difference." /><meta name="Keywords" content="zingermans,deli,food,cooking,gourmet,gifts,olive oil,vinegar,bread,cheese,pastries,gift baskets,sauce,pasta,spices,olives,european,italian,french,spanish,flavor,ann arbor" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<!-- Global site tag (gtag.js) - AdWords: 1063927139 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1063927139"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1063927139');
+</script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+
+<script type="text/javascript">
+	if (typeof jQuery == 'undefined') {
+		document.write(unescape("%3Cscript src='/js/jquery-3.1.1.min.js'%3E%3C/script%3E"));
+	}
+</script>
+
+
+
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+
+
+
+	<script src="/js/columnizer.js" type='text/jscript'></script>
+
+	
+
+<script src="//cdn.searchspring.net/search/v3/js/searchspring.catalog.js?naxupv" search="kw"></script>
+
+
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Trocchi" rel="stylesheet" type="text/css" />
+<script src="//use.typekit.net/hgl5gql.js" type="text/javascript"></script>
+<script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+
+
+
+
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+
+
+
+<link href="https://www.zingermans.com/css/megamenu.css" rel="stylesheet" />
+<link href="https://www.zingermans.com/css/bcolorbox.css" rel="stylesheet" />
+<link href="https://www.zingermans.com/css/bscreen.css" rel="stylesheet" />
+<link href="https://www.zingermans.com/css/boverrides.css" rel="stylesheet" />
+<link href="https://www.zingermans.com/css/bcheckout.css" rel="stylesheet" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#000000">
+
+<!--[if IE 6]>
+<link rel="stylesheet" href="/css/ie/ie6.css" type="text/css" media="screen" />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="/css/ie/ie.css" />
+<![endif]-->
+
+    <meta content="https://www.zingermans.com/images/master/desktop-mo-logo-200x200.jpg" property="og:image" />
+</head>
+<body class="main-pages">
+
+	<form method="post" action="./" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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YXZlIHRoZSB0YXN0aWVzdCBwYXJ0cyBvZiB5b3VyIFRoYW5rc2dpdmluZyBmZWFzdCwgcmVhZHkgdG8gc2hpcC5kAgkPFgQfAQUWR29iYmxlLCBHb2JibGUgJiM5NjU4Ox8CBSovQ2F0ZWdvcnkuYXNweD9DYXRlZ29yeT10aGFua3NnaXZpbmdfZmluZHNkAgIPDxYGHhBDb3JyZWN0U3RvY2tDb2RlBQVHLVRYQx4HU3RvY2tJRAKOxQEeBE5NUURoZBYWAgEPFgIfAgUdL1Byb2R1Y3QuYXNweD9Qcm9kdWN0SUQ9Ry1UWEMWAmYPFgQfBQUuL1pJbWFnZXMvUHJvZHVjdC90aGFua3NnaXZpbmdicmVhZGJveGVzXzAyLmpwZx8GBSRUaGUgSGlnaCBSb2FkIFRoYW5rc2dpdmluZyBCcmVhZCBCb3hkAgMPFgIfAgUdL1Byb2R1Y3QuYXNweD9Qcm9kdWN0SUQ9Ry1UWEMWAmYPFgIfAQUkVGhlIEhpZ2ggUm9hZCBUaGFua3NnaXZpbmcgQnJlYWQgQm94ZAIFDxYCHwBoZAIHDxYCHwBoZAIJDxYCHwEFAyQ0NWQCCw8WAh8BZWQCDQ9kFgQCAQ8WAh8BBRVzaGlwcyAyIGJ1c2luZXNzIGRheXNkAgMPFgQfAQUfVHdvRGF5U2hpcHBpbmdUYWJsZUhvdmVyTWVzc2FnZR8AaGQCDw8WAh8BZWQCEw8WBB8CBWYvQ2hlY2tvdXQvU3RvY2tOb3RpZmljYXRpb25EaWFsb2cuYXNweD9wcm9kdWN0PUctVFhDJnJldHVybnVybD1odHRwczovL3d3dy56aW5nZXJtYW5zLmNvbS9kZWZhdWx0LmFzcHgfAGhkAhUPDxYCHgRUZXh0BQtBZGQgVG8gQ2FydGRkAhcPFgIfAgUfL1F1aWNrbG9vay5hc3B4P1Byb2R1Y3RJRD1HLVRYQ2QCAw8PFgYfBwUFUC1UR0MfCAKK1QEfCWhkFhYCAQ8WAh8CBR0vUHJvZHVjdC5hc3B4P1Byb2R1Y3RJRD1QLVRHQxYCZg8WBB8FBTMvWkltYWdlcy9Qcm9kdWN0L2Nob2NvbGF0bW9kZXJuZXRoYW5rc2dpdmluZ18wMi5qcGcfBgUvQ2hvY29sYXQgTW9kZXJuZSBUaGFua3NnaXZpbmcgQm9uYm9uIENvbGxlY3Rpb25kAgMPFgIfAgUdL1Byb2R1Y3QuYXNweD9Qcm9kdWN0SUQ9UC1UR0MWAmYPFgIfAQUvQ2hvY29sYXQgTW9kZXJuZSBUaGFua3NnaXZpbmcgQm9uYm9uIENvbGxlY3Rpb25kAgUPFgIfAGhkAgcPFgIfAGhkAgkPFgIfAQUDJDYwZAILDxYCHwFlZAIND2QWBAIBDxYCHwEFE1NoaXBzIGZvciBmbGF0IHJhdGVkAgMPFgQfAQUkRmxhdFJhdGVTaGlwcGluZ0luZm9UZXh0SG92ZXJNZXNzYWdlHwBoZAIPDxYCHwFlZAITDxYEHwIFZi9DaGVja291dC9TdG9ja05vdGlmaWNhdGlvbkRpYWxvZy5hc3B4P3Byb2R1Y3Q9UC1UR0MmcmV0dXJudXJsPWh0dHBzOi8vd3d3Lnppbmdlcm1hbnMuY29tL2RlZmF1bHQuYXNweB8AaGQCFQ8PFgIfCgULQWRkIFRvIENhcnRkZAIXDxYCHwIFHy9RdWlja2xvb2suYXNweD9Qcm9kdWN0SUQ9UC1UR0NkAgQPDxYGHwcFBUctVENCHwgCrXsfCWhkFhYCAQ8WAh8CBR0vUHJvZHVjdC5hc3B4P1Byb2R1Y3RJRD1HLVRDQhYCZg8WBB8FBTAvWkltYWdlcy9Qcm9kdWN0L3RoYW5rc2dpdmluZ2NoZWVzZWNvdXJzZV8wMi5KUEcfBgUaVGhhbmtzZ2l2aW5nIENoZWVzZSBDb3Vyc2VkAgMPFgIfAgUdL1Byb2R1Y3QuYXNweD9Qcm9kdWN0SUQ9Ry1UQ0IWAmYPFgIfAQUaVGhhbmtzZ2l2aW5nIENoZWVzZSBDb3Vyc2VkAgUPFgIfAGhkAgcPFgIfAGhkAgkPFgIfAQUEJDEwMGQCCw8WAh8BZWQCDQ9kFgQCAQ8WAh8BBRVzaGlwcyAyIGJ1c2luZXNzIGRheXNkAgMPFgQfAQUfVHdvRGF5U2hpcHBpbmdUYWJsZUhvdmVyTWVzc2FnZR8AaGQCDw8WAh8BZWQCEw8WBB8CBWYvQ2hlY2tvdXQvU3RvY2tOb3RpZmljYXRpb25EaWFsb2cuYXNweD9wcm9kdWN0PUctVENCJnJldHVybnVybD1odHRwczovL3d3dy56aW5nZXJtYW5zLmNvbS9kZWZhdWx0LmFzcHgfAGhkAhUPDxYCHwoFC0FkZCBUbyBDYXJ0ZGQCFw8WAh8CBR8vUXVpY2tsb29rLmFzcHg/UHJvZHVjdElEPUctVENCZAIFDw8WBh8HBQVQLUFWVB8IAvm0AR8JaGQWFgIBDxYCHwIFHS9Qcm9kdWN0LmFzcHg/UHJvZHVjdElEPVAtQVZUFgJmDxYEHwUFKS9aSW1hZ2VzL1Byb2R1Y3QvVm9zZ2VzLUFkdmVudC1Cb3hfMDIuanBnHwYFD0FkdmVudCBDYWxlbmRhcmQCAw8WAh8CBR0vUHJvZHVjdC5hc3B4P1Byb2R1Y3RJRD1QLUFWVBYCZg8WAh8BBQ9BZHZlbnQgQ2FsZW5kYXJkAgUPFgIfAGhkAgcPFgIfAGhkAgkPFgIfAQUEJDE1MGQCCw8WAh8BZWQCDQ9kFgQCAQ8WAh8BBQ1GcmVlIHNoaXBwaW5nZAIDDxYEHwFlHwBoZAIPDxYCHwFlZAITDxYEHwIFZi9DaGVja291dC9TdG9ja05vdGlmaWNhdGlvbkRpYWxvZy5hc3B4P3Byb2R1Y3Q9UC1BVlQmcmV0dXJudXJsPWh0dHBzOi8vd3d3Lnppbmdlcm1hbnMuY29tL2RlZmF1bHQuYXNweB8AaGQCFQ8PFgIfCgULQWRkIFRvIENhcnRkZAIXDxYCHwIFHy9RdWlja2xvb2suYXNweD9Qcm9kdWN0SUQ9UC1BVlRkAgYPZBYIAgEPFgIfAgUmL0NhdGVnb3J5LmFzcHg/Q2F0ZWdvcnk9Y2hhbnVrYWhfZ2lmdHMWAmYPFgQfBQUZL1pJbWFnZXMvUHJvZHVjdC9nY2hhLmdpZh8GBQ9DaGFudWthaCBUcmVhdHNkAgMPFgIfAgUmL0NhdGVnb3J5LmFzcHg/Q2F0ZWdvcnk9Y2hhbnVrYWhfZ2lmdHMWAmYPFgIfAQUPQ2hhbnVrYWggVHJlYXRzZAIFDxYCHwEFiAFDaGFudWthaCBzdGFydHMgYXQgc3VuZG93biBTdW5kYXksIERlY2VtYmVyIDJuZCwgMjAxOC4gQ2VsZWJyYXRlIHRoZSBob2xpZGF5IHdpdGggY2hvY29sYXRlIGdlbHQsIGZyZXNoIGJha2VkIHBhc3RyaWVzLCBhbmQgcGxlbnR5IG1vcmUuZAIHDxYEHwIFJi9DYXRlZ29yeS5hc3B4P0NhdGVnb3J5PWNoYW51a2FoX2dpZnRzHwEFF0hhcHB5IENoYW51a2FoISAmIzk2NTg7ZAIHD2QWCAIBDxYCHwIFIi9DYXRlZ29yeS5hc3B4P0NhdGVnb3J5PWVhcmx5X2JpcmQWAmYPFgQfBQUZL1pJbWFnZXMvUHJvZHVjdC9wdWdhLmpwZx8GBRhFYXJseSBCaXJkIEhvbGlkYXkgR2lmdHNkAgMPFgIfAgUiL0NhdGVnb3J5LmFzcHg/Q2F0ZWdvcnk9ZWFybHlfYmlyZBYCZg8WAh8BBRhFYXJseSBCaXJkIEhvbGlkYXkgR2lmdHNkAgUPFgIfAQWFAUV2ZXJ5IHllYXIgd2UgZ2V0IGEgc21hbGwgc3VwcGx5IG9mIHVuaXF1ZSB0cmVhdHMuIEV2ZXJ5IHllYXIgd2Ugc2VsbCBvdXQuIEVhcmx5IGJpcmQgZ2V0cyB0aGUgbGltaXRlZCBlZGl0aW9uLCBzdXBlciBkZWxpY2lvdXMgZ2lmdC5kAgcPFgQfAgUiL0NhdGVnb3J5LmFzcHg/Q2F0ZWdvcnk9ZWFybHlfYmlyZB8BBRBTaG9wIG5vdyAmIzk2NTg7ZAIND2QWBAIBDxYCHwBoFhACAQ8WAh8CBQ5+L0Fib3V0VXMuYXNweGQCAw8WAh8CBRV+L2NhdGFsb2dyZXF1ZXN0LmFzcHhkAgUPFgIfAgUbfi9Qcm9mZXNzaW9uYWxQcmVzZW50cy5hc3B4ZAIHDxYCHwIFGX4vY29udGFjdHMvU3Vic2NyaWJlLmFzcHhkAgkPFgIfAgUSfi9DdXN0U2VydmljZS5hc3B4ZAILDxYCHwIFEH4vQ29udGFjdFVzLmFzcHhkAg0PFgIfAgUgaHR0cHM6Ly9mYWNlYm9vay5jb20vWmluZ2VybWFucy9kAhMPFgIfAGhkAgMPZBYCAgEPFgIfAGcWBAIBDxYCHwEFCEZBTExTVE9OZAIDDxYCHwEFCE1hcnlsYW5kZAIFDw8WAh8AZ2QWAmYPFgIfAQWUBzxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz4oZnVuY3Rpb24oKSB7ICAgICAgdmFyIHNlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7ICBzZS50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7ICAgc2UuYXN5bmMgPSB0cnVlOyAgICBzZS5zcmMgPSAnLy9jb21tb25kYXRhc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9jb2RlLnNuYXBlbmdhZ2UuY29tL2pzLzAyYWU3ZDA0LTNhNjYtNGVmMi05ZDQ5LWRhZTc3MDk0NjgxZi5qcyc7ICAgdmFyIGRvbmUgPSBmYWxzZTtzZS5vbmxvYWQgPSBzZS5vbnJlYWR5c3RhdGVjaGFuZ2UgPSBmdW5jdGlvbigpIHsgICAgICAgIGlmKCFkb25lJiYoIXRoaXMucmVhZHlTdGF0ZXx8dGhpcy5yZWFkeVN0YXRlPT09J2xvYWRlZCd8fHRoaXMucmVhZHlTdGF0ZT09PSdjb21wbGV0ZScpKSB7ICAgICAgICAgICAgICAgICBTbmFwRW5nYWdlLmdldEFnZW50U3RhdHVzQXN5bmMoZnVuY3Rpb24gKG9ubGluZSkgeyAgICAgICAgICAgICAgICAgICAgaWYgKG9ubGluZSkgeyAgICAgICAgICAgICAgICAgICAgICAgICQoJyNmb290ZXItY2hhdCcpLnNob3coKTsgICAgICAgICAgICAgICAgICAgICAgICAkKCcjZm9vdGVyLXRleHQnKS5oaWRlKCk7ICAgICAgICAgICAgICAgICAgICB9IGVsc2UgeyAgICAgICAgICAgICAgICAgICAgICAgICQoJyNmb290ZXItY2hhdCcpLmhpZGUoKTsgICAgICAgICAgICAgICAgICAgICAgICAkKCcjZm9vdGVyLXRleHQnKS5zaG93KCk7ICAgICAgICAgICAgICAgICAgICB9ICAgICAgICAgICAgICAgIH0pOyAgICAgICAgfX07IHZhciBzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdOyAgICBzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHNlLCBzKTsgICAgIH0pICAgICAgICAoKTsgICAgIDwvc2NyaXB0PiBkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYEBSNjdGwwMCRaTU9IZWFkZXIyJExvZ2luU3RhdHVzMSRjdGwwMQUjY3RsMDAkWk1PSGVhZGVyMiRMb2dpblN0YXR1czEkY3RsMDMFKWN0bDAwJFJlc3BvbnNpdmVEZXNpZ24kTG9naW5TdGF0dXMxJGN0bDAxBSljdGwwMCRSZXNwb25zaXZlRGVzaWduJExvZ2luU3RhdHVzMSRjdGwwM5vhKUoDpZ5jahITQ5GEV7GqyGtHOsrqYEPlCv98tdvU" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=hhNXC1x42gNZawIzQpbW49_a4pwpNRC6NEzRkNhAVfAEgGdLz-g8ykqaDJxH0WHqen4VbG5MxL850CMM5A9NO0NX_XSgEXU2tTRfl1UE8MA1&amp;t=636283940160000000" type="text/javascript"></script>
+
+
+<script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script src="js/SubscribeENews.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=bnaHe4AaEBXNnRe3ei7s_b18uSAnJ4ZXGgKQl4ucRIOIp-6NtHd0DXKdSyJRVNjSPK0RNGolFzBnnM0imhkUDgoRzedxdr_NFlFpekHYADNZcX8oDgIxtn6sGWUwZvnuMfQucikHYdU1P7zrRI29Yq4lrafFQvxAiOleWUREVjI1&amp;t=ffffffffcce8aaf2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uMwbqcERLLdVjmlifWt8FFfWjoHMLTlpOZU02r9AbNAJlGYWrdbjUu_oMC0uZznTxmFKKNeUIBLJCWeemQTNfRIwF-Ir46xlXJr0Sbtlpq0H74j2QElHgi7nYrKHi2ewk4UIXymgtCa5vLetKWUF9XbkRjoJ0K_vIGtmOEY_mO_C5uJb0lA_Z7BH4d80RUG30&amp;t=ffffffffcce8aaf2" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAtrQoLgVbAgQZCbDVTxrPHuWDbAewne8pLMZV8ulknzUo5f3V5I3L1/c/Od52CnBxwnpVU1aeu1rqv7IQm0jdiGe3M1CkY/hQKvQbMdc7/nJm8v9+b5zwmMesMnTobCVyXo2FY7HUlr/UFH+lhYS0W3GUlFQb9jjoOF8KezW60iVC0N0dyXELeDHhv7YPFMGfOu67ziiYyrqIpYPf4EAFvFbueUfxvcHXiqCElUpFklduxLbnM7iVH0+r6qQRgszRPkOb8gSy4oQ+7grh53QYlg" />
+</div>
+
+		<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', ['tctl00$ZMOHeader2$updpnlCartQuantity',''], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+		
+
+	
+	
+<div id="header">
+
+	<div class="container container1020">
+
+	<div id="logo"><a href="/" id="ctl00_ZMOHeader2_hypH1"><h1>Zingerman's Mail Order</h1></a></div>
+	
+	<div id="ctl00_ZMOHeader2_tagline" class="tagline">
+		<span>The online shop<br/> for food lovers</span>
+	</div>	
+	<div id="ctl00_ZMOHeader2_divHelpPhone" class="phone-number"><a href="tel:+1-888-636-8162">888.636.8162</a></div>
+	<div id="ctl00_ZMOHeader2_divServiceCenterHours" class="hours">8am - Midnight (Eastern Time) We're open now!</div>
+	
+	<ul class="navigation utilities">
+		<li id="ctl00_ZMOHeader2_liFirstName">Welcome!</li>
+		<li id="ctl00_ZMOHeader2_liFirstName">Welcome!</li>
+		<li><a href="Account/" id="ctl00_ZMOHeader2_aMyAccount">My Account</a></li>
+		<li>
+		<a id="ctl00_ZMOHeader2_LoginStatus1">Log In</a>
+		</li>
+		<li class="cart-link">
+		<div id="ctl00_ZMOHeader2_updpnlCartQuantity">
+		
+		<a href="/ShoppingCart.aspx" id="ctl00_ZMOHeader2_aShoppingCart"><span id="ctl00_ZMOHeader2_spnCartQuantity" class="cart-quantity">0</span><img src="images/master/shopping-cart.png" id="ctl00_ZMOHeader2_imgShoppingCart" alt="Cart" /> Cart</a>
+        
+</div></li>
+	</ul>
+        
+
+<div id="search">
+	<input type="text" class="search-query" name="kw" placeholder="Type keyword or product code..."/>
+	<a class="search-button"><i class="fa fa-search"></i></a>
+</div>
+
+<link href="css/bsearch.css" rel="stylesheet" />
+
+
+
+        
+	
+	</div>
+	
+</div>
+
+
+
+
+		<div class="wrapper">
+
+			<div id="main-content">
+				<div class="container container1020">
+
+					
+<div id='wrapper_menu'>
+    <ul id="ctl00_MainMenu1_ulTopMenuRPTR" class="menu menu_zing">
+    
+       
+    </ul>
+</div>
+
+					
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js" type="type/jscript"></script>
+	<link id="ctl00_ResponsiveDesign_cssMenufication" href="css/menufication.min.css" rel="stylesheet"></link>
+	<link id="ctl00_ResponsiveDesign_cssResponsiveDesign" href="css/bresponsive.css" rel="stylesheet"></link>
+
+<div id="ctl00_ResponsiveDesign_mobile_menu_wrapper" class="mobile_menu_wrapper">
+<div id="mobile_menu" class="mobile_menu">
+	<ul>
+		<li id="ctl00_ResponsiveDesign_liFirstName" class="drop">Welcome!</li>
+			<li id="ctl00_ResponsiveDesign_liFirstName" class="drop">Welcome!</li>
+			<li id="ctl00_ResponsiveDesign_liFirstName" class="drop">Welcome!</li>
+		<li><a href="Account/" id="ctl00_ResponsiveDesign_aMyAccount" class="drop">My Account</a></li>
+		<li><a id="ctl00_ResponsiveDesign_LoginStatus1" href="javascript:__doPostBack(&#39;ctl00$ResponsiveDesign$LoginStatus1$ctl02&#39;,&#39;&#39;)"> In</a></li>
+		<li><a href="ShoppingCart.aspx" id="ctl00_ResponsiveDesign_aShoppingCart" class="drop">Cart</a></li>
+
+		<li><hr/></li>
+		
+		
+			<li><a href='/Category.aspx?Category=gifts' class='drop'>Gifts</a></li>
+			
+			<li><a href='/Category.aspx?Category=thanksgiving_finds' class='drop'>Thanksgiving</a></li>
+			
+			<li><a href='/Category.aspx?Category=zing_clubs' class='drop'>Food Clubs</a></li>
+			
+			<li><a href='/Category.aspx?Category=Sweet_Stuff' class='drop'>Sweet</a></li>
+			
+			<li><a href='/Category.aspx?Category=bakery' class='drop'>Bread &amp; Pastry</a></li>
+			
+			<li><a href='/Category.aspx?Category=meat' class='drop'>Meat &amp; Fish</a></li>
+			
+			<li><a href='/Category.aspx?Category=cheeses' class='drop'>Cheese</a></li>
+			
+			<li><a href='/Category.aspx?Category=olive_oils' class='drop'>Oil &amp; Vinegar</a></li>
+			
+			<li><a href='/Category.aspx?Category=pantry' class='drop'>Pantry</a></li>
+			
+			<li><a href='/Category.aspx?Category=zingermans_made' class='drop'>Made By Us</a></li>
+			
+			<li><a href='/Category.aspx?Category=edible_addables' class='drop'>More</a></li>
+			
+
+		<li><hr/></li>
+		<li><a href="CustService.aspx" id="ctl00_ResponsiveDesign_aHelp" class="drop">Help</a></li><!-- End Item -->
+		<li><a href="ProfessionalPresents.aspx" id="ctl00_ResponsiveDesign_aCorporateGifts" class="drop">Corporate Gifts</a></li><!-- End Item -->
+		<li><a href="AboutUs.aspx" id="ctl00_ResponsiveDesign_aAboutUs" class="drop">About Us</a></li><!-- End Item -->
+
+		<li><hr/></li>
+
+		<li><a href="https://facebook.com/Zingermans/" id="ctl00_ResponsiveDesign_aFacebook" class="drop">Facebook</a></li><!-- End Item -->
+		<li><a href="https://twitter.com/zingermans" id="ctl00_ResponsiveDesign_aTwitter" class="drop">Twitter</a></li><!-- End Item -->
+		<li><a href="https://www.instagram.com/zingmailorder/" id="ctl00_ResponsiveDesign_aInstagram" class="drop">Instagram</a></li><!-- End Item -->
+		
+	</ul>
+</div>
+</div>
+
+	<script src="js/jquery.menufication.min.js" type='text/jscript' ></script>
+	
+	<script type="text/javascript">
+	$(".mobile_menu").menufication({ hideDefaultMenu: true, triggerWidth:1020 });
+	</script>
+	
+
+	
+	
+	
+
+
+					
+					
+
+					
+	
+
+
+
+
+	<div class="product-box homepage-large">
+	
+	    <div class="homepage-large-content">
+
+		<div class="product-image"><a href="/Category.aspx?Category=thanksgiving_finds" id="ctl00_ContentPlaceHolder1_HomePageFeatureCell_ProductLink"><img src="/ZImages/Product/thanksgivinghorsdoeurves.jpg" id="ctl00_ContentPlaceHolder1_HomePageFeatureCell_MainImage" alt="Thanksgiving" /></a></div>
+
+		<div class="product-info">
+		<h3 id="ctl00_ContentPlaceHolder1_HomePageFeatureCell_TopLine" class="topline"></h3>
+		<a href="/Category.aspx?Category=thanksgiving_finds" id="ctl00_ContentPlaceHolder1_HomePageFeatureCell_ProductLinkTitle" class="product-title"><h2 id="ctl00_ContentPlaceHolder1_HomePageFeatureCell_MainLine">Thanksgiving</h2></a>
+		<p id="ctl00_ContentPlaceHolder1_HomePageFeatureCell_MainDescription">Hand-crafted American cheeses. Crusty hearth-baked breads. Really wild wild rice. Scrumptious pies with flaky, all-butter crusts. We have the tastiest parts of your Thanksgiving feast, ready to ship.</p>
+
+		</div>
+
+		<div class="buy-info">
+		<a href="/Category.aspx?Category=thanksgiving_finds" id="ctl00_ContentPlaceHolder1_HomePageFeatureCell_MainButton" class="button primary">Gobble, Gobble &#9658;</a>
+		</div>
+
+		<div class="clear"></div>
+		
+		</div>
+
+	</div>
+
+
+
+
+				</div>
+
+			</div>
+
+			<div class="push"></div>
+
+		</div>
+		<!-- /wrapper -->
+
+		
+<div id="footer">
+
+	
+
+	<style type="text/css">
+		/* Small devices (tablets, 768px and up) */
+		@media (min-width: 768px) {
+			.SubscribeENewsButtonDiv {
+				text-align: left;
+				padding-left: 0px;
+			}
+			.SubscribeENewsEmailAddressDiv {
+				text-align: left;
+			}
+			#SubscribeENewsEmailAddress { margin-left: 0px; }
+			#SubscribeENewsButton { margin-left: 0px; }
+		}
+	</style>
+
+
+	<div id="ctl00_ZMOFooter1_new_footer" class="container container1020 footer"> 
+		<div class="footer__enews col-sm-6 col-md-5">
+			<h4>Get super delicious emails</h4>
+			<p>New foods, discounts, love letters.</p>
+			<div class="row no-gutters">
+				<div class="col-sm-9 col-xs-12 text-center SubscribeENewsEmailAddressDiv">
+					<input type="text" name="SubscribeENewsEmailAddress" id="SubscribeENewsEmailAddress"
+						placeholder="email address"
+						maxlength="255"
+						class="form-control"
+						onkeyup="if (event.keyCode == 13) { document.getElementById('SubscribeENewsButton').click(); event.stopPropagation(); }"/>
+					<small class="form-text text-success" style="display:inline-block;" id="SubscribeENewsStatusSpan"></small>
+				</div>
+				<div class="col-sm-3 col-xs-12 text-center SubscribeENewsButtonDiv">
+					<input type="button" id="SubscribeENewsButton"
+						class="btn btn-default button primary"
+						onclick="SubscribeENewsButtonHandler();"
+						value="Sign Up" />
+					<img id="SubscribeENewsSpinnerImage" src="/Images/lightbox/loading.gif"
+						style="padding-top:5px;padding-bottom:0px;padding-left:25px;display:none;" alt="Subscribing..." />
+				</div>
+			</div>
+		</div>
+		<div class="footer__help col-sm-6 col-md-3">
+			<a href="/CustService.aspx"><h4>Help</h4></a>
+			<ul>
+				<li>
+					<a href="/Account/OrderHistory3.aspx">
+						Track your shipment
+					</a>
+				</li>
+				<li>
+					<a href="/CustService.aspx#SH">
+						Shipping info
+					</a>
+				</li>
+				<li>
+					<a href="/CustService.aspx">
+						All help
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="footer__contact col-sm-6 col-md-4">
+			<a href="/CustService.aspx#contactus"><h4>Contact Us</h4></a>
+			<ul>
+				<li>
+					<a href="tel:+18886368162">
+						<i class="fa fa-phone" aria-hidden="true"></i>888.636.8162
+					</a>
+				</li>
+				<li>
+					<a href='mailto:service@zingermans.com'>
+						<i class="fa fa-envelope" aria-hidden="true"></i>service@zingermans.com
+					</a>
+				</li>
+				<li id="footer-chat" style="display:none;">
+					<a href="#" onclick="SnapEngage.startLink();return false;">
+						<i class="fa fa-comments" aria-hidden="true"></i>Live Chat
+					</a>
+				</li>
+				
+				<li  id="footer-text">
+					<a href="txt:+17344362006">
+						<i class="fa fa-mobile" aria-hidden="true"></i>Text 734.436.2006
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="footer__social col-sm-6 col-md-5">
+			<h4>See What's Up</h4>
+			<ul>
+				<li>
+					<a href="https://www.vimeo.com/zingermans/" target="_blank">
+						<i class="fa fa-vimeo" aria-hidden="true"></i>
+					</a>
+				</li>
+				<li>
+					<a href="https://www.instagram.com/zingmailorder/" target="_blank">
+						<i class="fa fa-instagram" aria-hidden="true"></i>
+					</a>
+				</li>
+				<li>
+					<a href="https://www.facebook.com/Zingermans/" target="_blank">
+						<i class="fa fa-facebook" aria-hidden="true"></i>
+					</a>
+				</li>
+				<li>
+					<a href="https://twitter.com/zingermans" target="_blank">
+						<i class="fa fa-twitter" aria-hidden="true"></i>
+					</a>
+				</li>
+				<li>
+					<a href="http://thefeed.zingermans.com/" target="_blank" title="Our blog" class="the-feed">
+						<span>The Feed</span>
+					</a>
+				</li>
+
+			</ul>
+		</div>
+		<div class="footer__about col-sm-6 col-md-3">
+			<a href="/AboutUs.aspx"><h4>About Us</h4></a>
+			<ul>
+				<li>
+					<a href="/AboutUs.aspx">What is Zingerman's?</a>
+				</li>
+				<li>
+					<a href="#" onclick="$('.zcobbar-ribbon').click(); return false;">Our websites</a>
+				</li>
+				<li>
+					<a href="/catalogrequest.aspx">
+						Request a catalog
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="footer__gifts col-sm-6 col-md-4">
+			<a href="/ProfessionalPresents.aspx"><h4>Business Gifts</h4></a>
+			<ul>
+				<li>
+					<a href="tel:+18662606169">
+						<i class="fa fa-phone" aria-hidden="true"></i>866.260.6169
+					</a>
+				</li>
+				<li>
+					<a href='mailto:bizgifts@zingermans.com'>
+						<i class="fa fa-envelope" aria-hidden="true"></i>bizgifts@zingermans.com
+					</a>
+				</li>
+				<li>
+					<a href="/ProfessionalPresents.aspx">
+						<i class="fa fa-fw" aria-hidden="true"></i>Learn more
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="footer__tracker col-md-5 pull-2">
+			<div id="ctl00_ZMOFooter1_spnFooterFoodTracker" class="foodTracker">
+				Great food<br />just flew to<br />
+				<span id="ctl00_ZMOFooter1_spnFooterTrackerCity">FALLSTON</span>,<br /> <span id="ctl00_ZMOFooter1_spnFooterTrackerState">Maryland</span>
+			</div>
+		</div>
+		<div class="footer__guarantee col-md-5">
+			<a href="/CustService.aspx#guarantee"><h4>Our Unbeatable Guarantee</h4></a>
+			<p>
+				If you are not pleased with any aspect of your order, please let us know.
+				We'll quickly replace it or refund your hard earned cash. 
+				And you never, ever have to return anything.
+			</p>
+			<a href="/CustService.aspx#guarantee">Read more</a>
+		</div>
+	</div>
+
+</div>
+
+
+
+
+		<script src="js/jquery.colorbox-min.js" type='text/jscript'></script>
+
+		<script src="js/bmaster.js" type='text/javascript'></script>
+
+		
+
+
+<script src="https://www.zingermanscommunity.com/zcobbar/js/zcobbar.php?z=mailorder&v=2" type="text/javascript"></script>
+<style type="text/css">
+#wrapper_menu 
+{
+    z-index: 20;
+}
+#website 
+{
+    position: absolute;
+    top: 30px;
+    width: 100%;
+}
+</style>
+
+	
+<script type='text/javascript'>var pageTracker = _gat._getTracker('UA-3055521-1');pageTracker._initData();pageTracker._trackPageview();</script><script type='text/javascript'>var google_tag_params = {ecomm_prodid: '',ecomm_pagetype: 'home',ecomm_totalvalue: ''};</script></form>
+	<div id="ctl00_SnapEngageLiveChat1_divSnapEngage"><script type='text/javascript'>(function() {      var se = document.createElement('script');  se.type = 'text/javascript';   se.async = true;    se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/02ae7d04-3a66-4ef2-9d49-dae77094681f.js';   var done = false;se.onload = se.onreadystatechange = function() {        if(!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {                 SnapEngage.getAgentStatusAsync(function (online) {                    if (online) {                        $('#footer-chat').show();                        $('#footer-text').hide();                    } else {                        $('#footer-chat').hide();                        $('#footer-text').show();                    }                });        }}; var s = document.getElementsByTagName('script')[0];    s.parentNode.insertBefore(se, s);     })        ();     </script> </div>
+
+</body>
+</html>
